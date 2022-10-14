@@ -1,1 +1,10 @@
-"fgob"
+per1 = 12
+per2 = 34
+per3 = 1.2
+per4 = 3.23
+per5 = "shon"
+pre6 = "kill"
+per7 = true
+per8 = false
+per9 = None
+print(per1).
